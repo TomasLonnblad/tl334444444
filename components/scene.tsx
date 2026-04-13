@@ -168,7 +168,7 @@ function SceneTitle() {
         anchorX="center"
         anchorY="middle"
       >
-        IMMERSIVE
+        Tomas Lönnblad
         <meshStandardMaterial color="#a78bfa" metalness={0.5} roughness={0.3} />
       </Text>
     </group>
